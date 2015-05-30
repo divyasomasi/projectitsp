@@ -1,0 +1,6 @@
+function booo=not_there(tes,value,data)
+booo=false;
+tes=tes+1;
+while(tes<length(data))
+tes=tes+1
+end

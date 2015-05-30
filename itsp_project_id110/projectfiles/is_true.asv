@@ -1,0 +1,4 @@
+function boo= is_period(tes,data)
+bool=true;factor=2;
+while(factor*tes<length(data)
+    if(factor
